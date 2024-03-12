@@ -1,9 +1,9 @@
 package dev;
 
-import Sources.Dictionary;
-import Sources.HashedPasswords;
-import ThreadProperties.ThreadColor;
-import ThreadProperties.ThreadColorFactory;
+import sources.Dictionary;
+import sources.HashedPasswords;
+import threadProperties.ThreadColor;
+import threadProperties.ThreadColorFactory;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

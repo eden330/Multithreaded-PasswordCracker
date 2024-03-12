@@ -1,4 +1,4 @@
-package ThreadProperties;
+package threadProperties;
 
 public enum ThreadColor {
 

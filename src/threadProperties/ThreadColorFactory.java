@@ -1,4 +1,4 @@
-package ThreadProperties;
+package threadProperties;
 
 import java.util.concurrent.ThreadFactory;
 
